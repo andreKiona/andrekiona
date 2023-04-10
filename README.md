@@ -8,7 +8,7 @@ Meet Andre, a talented technical engineer who has self-learned front-end and Pyt
 
 * 🌍  I'm based in Cape town
 * 🧠  I'm learning Everything JavaScript & Python
-* 🤝  I'm open to collaborating on web development, data analysis and more
+* 🤝  I'm open to collaborating on web development and more
 
 
 ### Skills
