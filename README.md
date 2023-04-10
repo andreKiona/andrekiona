@@ -10,9 +10,6 @@ Meet Andre, a talented technical engineer who has self-learned front-end and Pyt
 * 🧠  I'm learning Everything JavaScript & Python
 * 🤝  I'm open to collaborating on web development, data analysis and more
 
-<a href="https://www.twitter.com/KionAndr3" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/KionAndr3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
 
 ### Skills
 
@@ -34,3 +31,8 @@ src="https://img.shields.io/twitter/follow/KionAndr3?logo=twitter&style=for-the-
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/andrekiona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Andrek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/andreKiona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andre-kiona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KionAndr3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+<a href="https://www.twitter.com/KionAndr3" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/KionAndr3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
