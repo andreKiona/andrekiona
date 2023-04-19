@@ -29,6 +29,10 @@ Meet Andre, a talented technical engineer who has self-learned front-end and Pyt
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
+## Front-End
+
+
+
 
 ### Socials
 
