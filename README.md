@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andre Kiona
 ===================================================================================================================================
 
-Front end-developer. Python developer. Technical Engineer.
+Front end-developer. PLC programmer. Technical Engineer.
 ----------------------------------------------------------
 
 Meet Andre, a talented technical engineer who has self-learned front-end and Python development skills. With a passion for technology and problem-solving, Andre has spent countless hours learning and practicing various programming languages and frameworks to become proficient in front-end development technologies such as HTML, CSS, JavaScript As a technical engineer, Andre has a strong foundation in computer science and is skilled in troubleshooting, debugging, and solving complex technical problems. software as well as hardware. Andre's dedication to staying up to date with the latest industry trends and technologies has helped them stay ahead of the curve and deliver innovative solutions to clients. Their excellent communication skills, attention to detail, and collaborative approach make them a valuable team member in any project.
