@@ -58,10 +58,14 @@ src="https://img.shields.io/twitter/follow/KionAndr3?logo=twitter&style=for-the-
 
 FR
 
-Salut 
+Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 Je suis Andre Kiona (Propriétaire du compte GitHub andreKiona)
+================================================================================================================================
+
 Ingénieur en électronique. Programmeur PLC & Automatisation. Développeur front-end.
+---------------------------------------------------------------------------------
+
 Je suis un ingénieur en électronique compétent en développement front-end, en programmation PLC et en conception de PCB avec KiCad pour la conception de circuits électroniques. J'ai affiné mes compétences en programmation en autodidacte, plongeant profondément dans la conception web avec HTML, CSS et JavaScript. J'explore également la programmation Flutter pendant mon temps libre, désireux d'élargir mes compétences.
 
 Mon parcours en génie électronique a commencé en 2019 et depuis 2021, j'apprends passionnément la programmation. Cela a été un chemin difficile mais enrichissant, et mon objectif principal reste la croissance continue et l'apprentissage à travers un travail pratique.
