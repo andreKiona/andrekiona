@@ -1,110 +1,77 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" />
 
-I am Andre Kiona (Owner of andreKiona GitHub account)
-================================================================================================================================
+## I am Andre Kiona (Owner of the `andreKiona` GitHub account)
 
-Electroncs Engineer. PLC programmer & Automation. Front end-developer.  
----------------------------------------------------------------------------------
+### Electronics Engineer | Aerospace Technologist | PLC Programmer | Full-Stack Developer | Embedded Systems Enthusiast | Maker | IoT Builder
 
-I am an Electronics Engineer skilled in front-end development, PLC programming  and PCB design using KiCad for electronic circuit design. 
-I've honed my programming skills through self-teaching, delving deep into web design with HTML, CSS, and JavaScript. I've also been exploring Flutter programming in my spare time, eager to expand my skill set. 
+---
 
-My journey in electronics engineering began in 2019, and since 2021, I've been passionately self-teaching programming. It's been a challenging yet rewarding path, and my primary focus remains on continued growth and learning through practical work.
-Welcome to my GitHub page! Here, I engage in pet projects and explore diverse projects shared by other developers. I'm enthusiastic about sharing my electronics projects while diving into the fascinating world of code.
+I am an Electronics Engineer currently working as an Aerospace Technologist. I specialize in front-end development, embedded firmware, PLC automation, and custom PCB design using KiCad. My journey into engineering began in 2019, and in 2021 I dove deep into programming through self-teaching.
 
+Since then, I've built everything from tag readers to POS systems, real-time chat apps to video call interfaces, and embedded firmware for microcontrollers like the 8051 and STM32. I enjoy combining hardware with software, building solutions that are practical and scalable.
 
-* 🌍  I'm based in Cape town
-* 🧠  I'm learning Everything JavaScript & Python
-* 🤝  I'm open to collaborating on web development, software development 
+Beyond work, I explore the use of Flutter for business apps like SwiftPOS, and contribute to smart home automation ideas that make electronics more accessible and affordable.
 
+Welcome to my GitHub — where I share personal projects, explore open source, and build across tech stacks.
+
+- 🌍  Based in Cape Town, South Africa  
+- 🧠  Currently learning advanced JavaScript, Python, C, and C++  
+- 🔧 Building on Raspberry Pi, micro:bit, and C8051F380  
+- 🤝  Open to collaborations in web, software, embedded, and automation  
+
+---
 
 ## Skills
 
+<p align="left">
 
-<p align="left">  
-  
-  ###### CORE
-  
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-  
-  ###### FRONTEND
+###### CORE  
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+###### FRONTEND  
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
 
-  ###### BACKEND AND DATABASE
+###### BACKEND AND DATABASE  
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
 
-
+---
 
 ## Socials
 
-<p align="left"> <a href="https://www.dev.to/andrekiona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Andrek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/andreKiona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andre-kiona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KionAndr3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-
-<a href="https://www.twitter.com/KionAndr3" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/KionAndr3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
-FR
-
-Salut ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-
-Je suis Andre Kiona (Propriétaire du compte GitHub andreKiona)
-================================================================================================================================
-
-Ingénieur en électronique. Programmeur PLC & Automatisation. Développeur front-end.
----------------------------------------------------------------------------------
-
-Je suis un ingénieur en électronique compétent en développement front-end, en programmation PLC et en conception de PCB avec KiCad pour la conception de circuits électroniques. J'ai affiné mes compétences en programmation en autodidacte, plongeant profondément dans la conception web avec HTML, CSS et JavaScript. J'explore également la programmation Flutter pendant mon temps libre, désireux d'élargir mes compétences.
-
-Mon parcours en génie électronique a commencé en 2019 et depuis 2021, j'apprends passionnément la programmation. Cela a été un chemin difficile mais enrichissant, et mon objectif principal reste la croissance continue et l'apprentissage à travers un travail pratique.
-Bienvenue sur ma page GitHub ! Ici, je travaille sur des projets personnels et explore divers projets partagés par d'autres développeurs. Je suis enthousiaste à l'idée de partager mes projets électroniques tout en plongeant dans le monde fascinant du code.
-
-
-* 🌍  Je suis basé à Cape Town
-* 🧠  J'apprends tout sur JavaScript & Python
-* 🤝  Je suis ouvert à la collaboration en développement web, développement logiciel
-
-## Compétences
-
-
-<p align="left">  
-  
-###### ESSENTIELLES
-
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-
-###### FRONTEND
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-
-###### BACKEND ET BASE DE DONNÉES
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-
+<p align="left"> 
+<a href="https://www.dev.to/andrekiona" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> 
+<a href="https://discord.com/users/Andrek" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/andreKiona" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/andre-kiona" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.twitter.com/KionAndr3" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
-## Réseaux sociaux
-<p align="left"> <a href="https://www.dev.to/andrekiona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/Andrek" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/andreKiona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/andre-kiona" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/KionAndr3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<a href="https://www.twitter.com/KionAndr3" target="_blank"><img src="https://img.shields.io/twitter/follow/KionAndr3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-<a href="https://www.twitter.com/KionAndr3" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/KionAndr3?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+---
+
+## FR - Présentation en français
+
+Salut <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="20" />
+
+Je suis **Andre Kiona**, ingénieur en électronique basé au Cap, en Afrique du Sud. Actuellement technologue aérospatial, je suis passionné par les systèmes embarqués, la programmation industrielle (PLC), le développement web, et la conception de circuits imprimés.
+
+Depuis 2019, je conçois des circuits, programme des microcontrôleurs (8051, STM32), et développe des interfaces modernes avec React, Flutter et Node.js. Je contribue aussi à des idées de domotique abordables pour rendre la technologie plus accessible.
+
+Bienvenue sur mon profil GitHub, un espace où je partage des projets personnels et explore des outils pour connecter le matériel et le logiciel.
+
+- 🌍 Basé à Cape Town (Le Cap)  
+- 🧠 J’apprends le JavaScript, Python, C et C++  
+- 🔧 Je travaille avec Raspberry Pi, micro:bit, et le C8051F380  
+- 🤝 Ouvert aux collaborations en développement web, logiciel, embarqué et automatisation
