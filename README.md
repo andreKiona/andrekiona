@@ -6,9 +6,9 @@
 
 ---
 
-I am an Electronics Engineer currently working as an Aerospace Technologist. I specialize in front-end development, embedded firmware, PLC automation, and custom PCB design using KiCad. My journey into engineering began in 2019, and in 2021 I dove deep into programming through self-teaching.
+I am an Electronics Engineer currently working as an Aerospace Technologist. I specialize in full-stack development, embedded firmware, PLC automation, and custom PCB design using KiCad. My journey into engineering began in 2019, and in 2021 I dove deep into programming through self-teaching, and more. I also work with Delta PLC as well as other PLC Manufactory type as well and I built project to control the temperature, controlling of valves and more
 
-Since then, I've built everything from tag readers to POS systems, real-time chat apps to video call interfaces, and embedded firmware for microcontrollers like the 8051 and STM32. I enjoy combining hardware with software, building solutions that are practical and scalable.
+Since then, I've built everything from tag readers to POS systems, real-time chat apps to video call interfaces, and embedded firmware for microcontrollers like the 8051, STM32, ESP32. I enjoy combining hardware with software, building solutions that are practical and scalable.
 
 Beyond work, I explore the use of Flutter for business apps like SwiftPOS, and contribute to smart home automation ideas that make electronics more accessible and affordable.
 
